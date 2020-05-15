@@ -4,8 +4,8 @@
 
 *Started: 05/15/2020*
 
-![image-20200515204618710](/home/dev/Developer/note/kubernetes/.images/README/image-20200515204618710.png)
+<img src=".images/README/image-20200515204618710.png" alt="image-20200515204618710" style="zoom:80%;" />
 
 
 
-![image-20200515204636397](/home/dev/Developer/note/kubernetes/.images/README/image-20200515204636397.png)
+<img src=".images/README/kubernetes-layers-arch.png" alt="file:///home/dev/Pictures/kubernetes-layers-arch.png" style="zoom:80%;" />
